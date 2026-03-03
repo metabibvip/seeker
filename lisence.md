@@ -1,7 +1,7 @@
-FixLove End User License Agreement (EULA)
+APP End User License Agreement (EULA)
 Effective Date: January 1, 2026
 
-This End User License Agreement ("Agreement") is a legal agreement between you ("User") and krizza lynne rivera de mesa  for the use of the FixLove mobile application ("App").
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and krizza lynne rivera de mesa  for the use of the mobile application ("App").
 
 1. License Grant
 The Company grants you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes.
@@ -17,7 +17,7 @@ You agree not to:
 All intellectual property rights in the App, including algorithms, content, branding, and reports, remain the exclusive property of the Company.
 
 4. No Professional Advice
-FixLove provides relationship analysis for informational purposes only.
+APP provides relationship analysis for informational purposes only.
 It does not constitute psychological, legal, or medical advice.
 
 5. Limitation of Liability
@@ -29,4 +29,4 @@ We reserve the right to suspend or terminate access if the User violates this Ag
 7. Governing Law
 This Agreement shall be governed by the laws of the Philippines.
 
-By using FixLove, you agree to this Agreement.
+By using APP, you agree to this Agreement.
