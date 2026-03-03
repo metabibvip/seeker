@@ -1,7 +1,7 @@
 Privacy Policy
 Effective Date: January 1, 2026
 
-FixLove ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the FixLove mobile application ("App").
+This APP ("we", "our", or "us") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the mobile application ("App").
 
 1. Information We Collect
 
@@ -53,7 +53,7 @@ krizza lynne rivera de mesa
 
 6. Children's Privacy
 
-FixLove is not intended for users under 18 years of age.
+App is not intended for users under 18 years of age.
 
 7. Changes to This Policy
 
